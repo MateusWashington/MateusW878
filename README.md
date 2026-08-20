@@ -2,7 +2,7 @@
 
 [![AWS Certified Cloud Practitioner] (https://www.credly.com/badges/7b3d6b0d-fa50-46c3-b8be-aae05d1cab90/public_url)]
 
-[![AWS Re/Start 2026.1](https://www.credly.com/badges/9d1e8580-9549-45f3-b143-cad933fc298f/public_url)]
+[![AWS Re/Start 2026.1] (https://www.credly.com/badges/9d1e8580-9549-45f3-b143-cad933fc298f/public_url)]
 
 ---
 
