@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 * 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
-* ☁️ **Foco Atual:** especializando-me em **Computação em Nuvem (AWS)**, **Linux**, e **Cultura/Práticas DevOps**.
+* ☁️ **Foco Atual:** especializando-me em **Computação em Nuvem (AWS)** e **Cultura/Práticas DevOps**.
 * 🎯 **Objetivo:** Atuar como Analista DevOps Júnior.
 
 ---
